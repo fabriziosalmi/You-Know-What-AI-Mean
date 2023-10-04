@@ -266,8 +266,7 @@ Each stakeholder plays a vital role in ensuring the ethical development and depl
 
 The general public plays a crucial role in shaping the development and deployment of AI technologies. 
 
-1.  **Advocacy**
-
+1. **Advocacy**
 - Promote ethical AI development and usage.
 - Support organizations and movements that advocate for ethical AI.
 
