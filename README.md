@@ -252,20 +252,7 @@ Each stakeholder plays a vital role in ensuring the ethical development and depl
 - **Academia**: Engage in research, development of ethical frameworks, and education.
 - **NGOs**: Involve in advocacy, monitoring, and campaigning for ethical AI.
 
-| **Point**                      | **Government**                     | **Tech Companies**                     | **AI Developers**                    | **General Public**       | **Academia**                     | **Non-Governmental Organizations (NGOs)** |
-| ------------------------------ | ---------------------------------- | -------------------------------------- | ------------------------------------ | ------------------------ | -------------------------------- | ----------------------------------------- |
-| **1. Human Oversight**         | Regulation, Oversight              | Implementing oversight mechanisms      | Ensuring systems allow for oversight | Advocacy, Awareness      | Research on oversight mechanisms | Advocacy, Monitoring                      |
-| **2. Non-Maleficence**         | Regulation, Legal frameworks       | Developing safe AI                     | Ensuring AI does no harm             | Advocacy, Reporting      | Research on safe AI development  | Advocacy, Monitoring                      |
-| **3. Fairness**                | Regulation, Ensuring equal access  | Implementing unbiased algorithms       | Developing unbiased AI               | Advocacy, Awareness      | Research on fairness in AI       | Advocacy, Monitoring                      |
-| **4. Transparency**            | Regulation, Ensuring transparency  | Providing transparent algorithms       | Developing transparent AI            | Demanding transparency   | Research on AI transparency      | Advocacy, Monitoring                      |
-| **5. Security**                | Regulation, Cybersecurity laws     | Implementing robust security           | Developing secure AI                 | Advocacy, Reporting      | Research on AI security          | Advocacy, Monitoring                      |
-| **6. Privacy**                 | Regulation, Privacy laws           | Ensuring data privacy                  | Developing privacy-preserving AI     | Advocacy, Awareness      | Research on privacy in AI        | Advocacy, Monitoring                      |
-| **7. Beneficence**             | Regulation, Ensuring public good   | Developing beneficial AI               | Ensuring AI benefits humanity        | Advocacy, Utilization    | Research on beneficial AI        | Advocacy, Monitoring                      |
-| **8. Accountability**          | Regulation, Legal accountability   | Implementing accountability mechanisms | Ensuring AI is accountable           | Demanding accountability | Research on AI accountability    | Advocacy, Monitoring                      |
-| **9. Sustainability**          | Regulation, Environmental policies | Developing sustainable AI              | Ensuring AI is resource-efficient    | Advocacy, Utilization    | Research on sustainable AI       | Advocacy, Monitoring                      |
-| **10. Equal Decentralization** | Regulation, Ensuring equal access  | Decentralizing AI development          | Developing accessible AI             | Advocacy, Utilization    | Research on decentralized AI     | Advocacy, Monitoring                      |
-
-#### Implementation path:
+### Implementation
 
 1. **Consultation**: Engage with experts, policymakers, developers, and the public to gather diverse insights and perspectives.
 2. **Drafting**: Create a detailed draft of the decalogue, incorporating the gathered insights and ensuring comprehensiveness.
@@ -275,7 +262,7 @@ Each stakeholder plays a vital role in ensuring the ethical development and depl
 6. **Monitoring**: Monitor the implementation and impact of the guidelines and gather feedback for continuous improvement.
 7. **Revision**: Periodically revise the guidelines based on feedback, new insights, and technological advancements.
 
-## General Public Duties in AI Development and Deployment
+### General Public roles in AI Development and Deployment
 
 The general public plays a crucial role in shaping the development and deployment of AI technologies. 
 
@@ -331,7 +318,7 @@ The general public plays a crucial role in shaping the development and deploymen
 
 The general public, being the end-users and those affected by AI technologies, indeed have a substantial influence on how AI evolves and is deployed in society. Their active participation, advocacy, and vigilance can drive companies and governments towards more ethical, transparent, and beneficial AI. Ensuring that the public is informed, engaged, and empowered is crucial in navigating the ethical deployment of AI technologies. This list can serve as a guideline for individuals and communities to understand their role and potential impact in the realm of AI.
 
-### Decalogue for the General Public in AI Interaction and Advocacy
+### Examples for General Public in AI Interaction and Advocacy
 
 #### 1. **Advocacy**
 
@@ -442,9 +429,9 @@ Creating a robust, globally accessible alert system for reporting AI misuse or m
 
 A globally accessible alert system for reporting AI misuse or malfunctioning would serve as a global platform where individuals and organizations can report incidents of AI misuse, malfunctioning, or unethical behavior. The system would prioritize accessibility, security, and effectiveness, ensuring that reports are handled promptly and actions are taken to investigate and mitigate issues. This conceptual framework invites further discussion and refinement to develop a system that is robust, reliable, and capable of safeguarding ethical AI deployment and usage across the globe.
 
-## Human-protection Framework:
+## Human protection
 
-Creating a human-preotection framework for AI involves establishing principles and guidelines that prioritize safety, ethics, and beneficial outcomes. Here are a few foundational rules:
+Creating a human protection framework for AI involves establishing principles and guidelines that prioritize safety, ethics, and beneficial outcomes. Here are a few foundational rules:
 
 - **Beneficence**: AI should be designed and used for the benefit of all of humanity.
 - **Non-Maleficence**: AI should not harm humanity, and safeguards should be in place to prevent harm.
