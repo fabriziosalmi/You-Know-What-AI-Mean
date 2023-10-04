@@ -1,0 +1,27 @@
+name: Publish README to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Trigger the action on push to the main branch
+    paths:
+      - 'README.md'  # Only run the workflow when README.md is changed
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Convert README.md to HTML
+      run: |
+        sudo apt-get install -y pandoc
+        pandoc -s README.md -o index.html
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
