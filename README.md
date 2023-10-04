@@ -271,47 +271,38 @@ The general public plays a crucial role in shaping the development and deploymen
 - Support organizations and movements that advocate for ethical AI.
 
 2.  **Awareness**
-
 - Stay informed about AI technologies, their applications, and implications.
 - Understand the ethical considerations and challenges in AI.
 
 3.  **Demanding Transparency**
-
 - Insist on clear explanations about how AI systems make decisions.
 - Seek transparency in AI applications in various sectors like healthcare, finance, and governance.
 
 4.  **Utilization**
-
 - Use AI technologies responsibly and ethically.
 - Be mindful of privacy and data protection when interacting with AI systems.
 
 5.  **Reporting**
-
 - Report unethical or harmful use of AI that you encounter.
 - Engage in whistleblowing if you witness misuse of AI in your environment.
 
 6.  **Participation**
-
 - Engage in public discussions and forums about AI ethics.
 - Participate in public consultations and decision-making processes related to AI.
 
 7.  **Supporting Accountability**
-
 - Demand accountability from AI developers and users.
 - Support policies and regulations that hold AI systems and their developers accountable.
 
 8.  **Promoting Fairness**
-
 - Advocate for unbiased and fair AI systems.
 - Support initiatives that aim to reduce bias and promote fairness in AI.
 
 9.  **Encouraging Sustainability**
-
 - Support and utilize AI technologies that prioritize sustainability.
 - Advocate for the development of eco-friendly AI technologies.
 
 10. **Upholding Privacy**
-
 - Be vigilant about protecting your data and privacy.
 - Support policies and technologies that prioritize data protection and user privacy.
 
@@ -320,52 +311,42 @@ The general public, being the end-users and those affected by AI technologies, i
 ### Examples for General Public in AI Interaction and Advocacy
 
 #### 1. **Advocacy**
-
 - **SUGGESTED**: Support and promote ethical AI development and usage.
 - **FORBIDDEN**: Ignoring or undermining the importance of ethical considerations in AI.
 
 #### 2. **Awareness**
-
 - **SUGGESTED**: Continuously educate oneself about AI and its societal implications.
 - **FORBIDDEN**: Remaining indifferent or uninformed about technological advancements.
 
 #### 3. **Demanding Transparency**
-
 - **SUGGESTED**: Seek clarity and transparency in AI systems and algorithms.
 - **FORBIDDEN**: Accepting AI decisions without questioning or understanding them.
 
 #### 4. **Utilization**
-
 - **SUGGESTED**: Use AI technologies ethically and responsibly.
 - **FORBIDDEN**: Misusing AI technologies for unethical purposes or gains.
 
 #### 5. **Reporting**
-
 - **SUGGESTED**: Report instances of AI misuse or unethical practices.
 - **FORBIDDEN**: Ignoring or bypassing incidents of AI misuse.
 
 #### 6. **Participation**
-
 - **SUGGESTED**: Actively participate in public discussions and decisions about AI.
 - **FORBIDDEN**: Apathy towards public consultations and decision-making processes.
 
 #### 7. **Supporting Accountability**
-
 - **SUGGESTED**: Demand and support accountability in AI development and deployment.
 - **FORBIDDEN**: Overlooking accountability issues and not holding entities responsible.
 
 #### 8. **Promoting Fairness**
-
 - **SUGGESTED**: Advocate for unbiased, equitable, and fair AI systems.
 - **FORBIDDEN**: Ignoring or perpetuating biased AI systems and algorithms.
 
 #### 9. **Encouraging Sustainability**
-
 - **SUGGESTED**: Support AI technologies that prioritize and promote sustainability.
 - **FORBIDDEN**: Supporting or utilizing AI technologies that harm the environment.
 
 #### 10. **Upholding Privacy**
-
 - **SUGGESTED**: Protect personal data and prioritize privacy when interacting with AI.
 - **FORBIDDEN**: Neglecting data privacy and engaging with non-secure AI systems.
 
@@ -376,53 +357,43 @@ This decalogue provides a guideline for the general public to navigate their int
 Creating a robust, globally accessible alert system for reporting AI misuse or malfunctioning is indeed a crucial step towards ensuring ethical and safe AI deployment. Here's a conceptual framework for such a system:
 
 #### 1. **Multi-Modal Reporting Mechanism**
-
 - **Digital Platforms**: Web portals, mobile applications, and email systems for online reporting.
 - **Offline Platforms**: Telephone hotlines, SMS services, and physical reporting centers for offline reporting.
 - **Emergency Broadcast Systems**: Utilize radio, television, and public announcement systems for widespread alerts.
 
 #### 2. **Decentralized and Distributed Architecture**
-
 - **Blockchain Technology**: Ensure transparency, security, and immutability of reported data.
 - **Peer-to-Peer Network**: Ensure the system remains operational even if parts of the network fail.
 
 #### 3. **Redundancy and Resilience**
-
 - **Multiple Data Centers**: Geographically distributed data centers to ensure data integrity and availability.
 - **Offline Capabilities**: Ensure the system can operate and collect data even without internet connectivity.
 
 #### 4. **Accessibility and Inclusivity**
-
 - **Multilingual Support**: Ensure the system is accessible to people from different linguistic backgrounds.
 - **User-Friendly Interface**: Ensure ease of use for people of all ages and technological proficiency.
 
 #### 5. **Anonymity and Privacy Protection**
-
 - **Secure Data Transmission**: Utilize end-to-end encryption to protect data during transmission.
 - **Anonymity Options**: Allow users to report incidents anonymously to protect their identity.
 
 #### 6. **Global Collaboration**
-
 - **International Cooperation**: Engage governments, NGOs, and international organizations in the system.
 - **Legal Framework**: Establish a global legal framework for handling and acting upon reports.
 
 #### 7. **Verification and Validation**
-
 - **Manual Verification**: Employ a team to manually verify and validate the reports received.
 - **Collaboration with Experts**: Work with cybersecurity experts, ethicists, and technologists for validation.
 
 #### 8. **Response and Action**
-
 - **Rapid Response Teams**: Establish teams to act upon verified reports promptly.
 - **Legal and Ethical Actions**: Ensure actions taken are in compliance with global ethical and legal standards.
 
 #### 9. **Public Education and Awareness**
-
 - **Awareness Campaigns**: Conduct campaigns to educate the public about the system and its usage.
 - **Training Programs**: Provide training on identifying and reporting AI misuse or malfunctioning.
 
 #### 10. **Continuous Improvement**
-
 - **Feedback Mechanism**: Implement mechanisms to receive feedback about the system.
 - **Periodic Reviews**: Regularly review and update the system to adapt to evolving needs and technologies.
 
