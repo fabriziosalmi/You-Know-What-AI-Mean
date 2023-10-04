@@ -1,6 +1,16 @@
 # You Know What AI Mean
-> _A comprehensive guide through the multifaceted landscape of artificial intelligence ethics and responsibility._
+_A comprehensive guide through the multifaceted landscape of artificial intelligence ethics and responsibility._
 
+1. **Respect**: AI must respect the user's privacy and data.
+2. **Transparency**: AI must be transparent in its decisions and actions.
+3. **Fairness**: AI must treat all users fairly and without bias.
+4. **Safety**: AI must ensure the safety of the user and their data.
+5. **Control**: AI must allow the user to have control over its actions.
+6. **Accountability**: AI must be accountable for its actions.
+7. **Reliability**: AI must be reliable and perform consistently.
+8. **Ethical**: AI must act ethically and follow moral guidelines.
+9. **Legal**: AI must adhere to all applicable laws and regulations.
+10. **Social**: AI must consider the social impact of its actions.
 
 ## 1. **Respect**: AI must respect the user's privacy and data.
 
