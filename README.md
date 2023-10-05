@@ -308,26 +308,26 @@ Strategies to Enhance Scalability and Applicability:
 
 a. Industry-Specific Adaptations:
 
-	•	Development of Sub-Indices: Creating specialized sub-indices that focus on the unique ethical challenges present within specific industries (e.g., AI in healthcare versus autonomous vehicles).
-	•	Collaboration with Industry Experts: Engaging with professionals and ethicists within specific industries to understand and incorporate domain-specific ethical challenges and considerations.
-	•	Industry-Specific Metrics: Incorporating metrics and considerations that are particularly pertinent to specific industries, ensuring the ethical index is not only generic but also contextually relevant and insightful.
+- Development of Sub-Indices: Creating specialized sub-indices that focus on the unique ethical challenges present within specific industries (e.g., AI in healthcare versus autonomous vehicles).
+- Collaboration with Industry Experts: Engaging with professionals and ethicists within specific industries to understand and incorporate domain-specific ethical challenges and considerations.
+- Industry-Specific Metrics: Incorporating metrics and considerations that are particularly pertinent to specific industries, ensuring the ethical index is not only generic but also contextually relevant and insightful.
 
 b. Cultural and Contextual Adaptations:
 
-	•	Culturally Sensitive Ethical Models: Developing models that consider and respect cultural variations in ethical priorities and interpretations, ensuring the index is sensitive and adaptable to diverse cultural and social contexts.
-	•	Inclusion of Localized Ethical Norms: Ensuring the index considers and incorporates localized ethical norms and values, respecting and representing varied cultural and social perspectives.
-	•	Global Stakeholder Involvement: Including stakeholders from varied cultural and social contexts in the co-creation and evolution of the ethical index, ensuring it is globally relevant and respectful.
+- Culturally Sensitive Ethical Models: Developing models that consider and respect cultural variations in ethical priorities and interpretations, ensuring the index is sensitive and adaptable to diverse cultural and social contexts.
+- Inclusion of Localized Ethical Norms: Ensuring the index considers and incorporates localized ethical norms and values, respecting and representing varied cultural and social perspectives.
+- Global Stakeholder Involvement: Including stakeholders from varied cultural and social contexts in the co-creation and evolution of the ethical index, ensuring it is globally relevant and respectful.
 
 c. Adaptable to Different Organizational Scales and Natures:
 
-	•	Modular Ethical Index Design: Creating a modular ethical index that allows organizations to select and prioritize components that are particularly relevant to their scale and nature of operations.
-	•	Guidance for Varied Organizational Contexts: Providing guidelines and resources to assist organizations of different sizes and natures in interpreting and implementing the ethical index effectively.
-	•	Supporting Varied AI Development Contexts: Ensuring the ethical index provides value and is applicable to varied AI development contexts, such as open-source projects, small-scale developments, and large-scale enterprise applications.
+- Modular Ethical Index Design: Creating a modular ethical index that allows organizations to select and prioritize components that are particularly relevant to their scale and nature of operations.
+- Guidance for Varied Organizational Contexts: Providing guidelines and resources to assist organizations of different sizes and natures in interpreting and implementing the ethical index effectively.
+- Supporting Varied AI Development Contexts: Ensuring the ethical index provides value and is applicable to varied AI development contexts, such as open-source projects, small-scale developments, and large-scale enterprise applications.
 
 d. Incorporating Various Regulatory Frameworks:
 
-	•	Alignment with Varied Regulatory Environments: Ensuring the ethical index respects and aligns with varied regulatory environments present within different industries and geographical regions.
-	•	Regulatory Adaptability: Building the index to be adaptable, allowing for alignments with evolving regulatory landscapes, ensuring it remains relevant and compliant across varied contexts.
+- Alignment with Varied Regulatory Environments: Ensuring the ethical index respects and aligns with varied regulatory environments present within different industries and geographical regions.
+- Regulatory Adaptability: Building the index to be adaptable, allowing for alignments with evolving regulatory landscapes, ensuring it remains relevant and compliant across varied contexts.
 
 ### Equal Decentralization
 
