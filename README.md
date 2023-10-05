@@ -242,9 +242,8 @@ This paper aims to explore, dissect, and envisage a framework that seamlessly we
 #### Formula
 
 The formula represents a conceptual “AI Ethical Index” (\(AI_{EI}\)) which is a hypothetical measurement designed to gauge the ethical standing of an AI system based on 10 fundamental principles: Respect, Transparency, Fairness, Safety, Control, Accountability, Reliability, Ethical, Legal, and Social. 
-Each principle is assigned a variable (\(R, T, F, S, C, A, L, E, G, O\)) and is weighted by a factor (\(w_1, w_2, ..., w_{10}\)) to signify its relative importance in a particular context.
 
-[formula](https://raw.githubusercontent.com/fabriziosalmi/You-Know-What-AI-Mean/main/ethicalAI.svg)
+![formula](https://raw.githubusercontent.com/fabriziosalmi/You-Know-What-AI-Mean/main/ethicalAI.svg)
 
 
 Where:
