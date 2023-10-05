@@ -239,6 +239,20 @@ This paper aims to explore, dissect, and envisage a framework that seamlessly we
 
 - AI used in legal tech should consider the social and ethical implications of legal research and recommendations, ensuring that actions and outputs do not perpetuate legal inequalities or social harm.
 
+#### Formula
+
+The formula represents a conceptual “AI Ethical Index” (\(AI_{EI}\)) which is a hypothetical measurement designed to gauge the ethical standing of an AI system based on 10 fundamental principles: Respect, Transparency, Fairness, Safety, Control, Accountability, Reliability, Ethical, Legal, and Social. 
+Each principle is assigned a variable (\(R, T, F, S, C, A, L, E, G, O\)) and is weighted by a factor (\(w_1, w_2, ..., w_{10}\)) to signify its relative importance in a particular context.
+
+\[ AI_{EI} = w_1 \cdot R + w_2 \cdot T + w_3 \cdot F + w_4 \cdot S + w_5 \cdot C + w_6 \cdot A + w_7 \cdot L + w_8 \cdot E + w_9 \cdot G + w_{10} \cdot O \quad \text{subject to} \quad \sum_{i=1}^{10} w_i = 1 \]
+
+Where:
+- \(w_1, w_2, ..., w_{10}\) are the weights assigned to each principle based on its perceived importance. These weights should be determined through stakeholder input, regulatory guidance, and societal values, ensuring that the total sum of the weights is equal to 1, to maintain a balanced and normalized evaluation. 
+- \(R, T, F, S, C, A, L, E, G, O\) represent the extent to which the AI system adheres to the respective principles, quantified in a normalized manner, potentially on a scale from 0 (no adherence) to 1 (full adherence). 
+- The product of each weight and its respective principle gets summed up to generate the \(AI_{EI}\). 
+
+This synthetic index offers a simplified, linear, and additive conceptualization, and therefore may not capture the complex, non-linear, and potentially interdependent nature of these principles in real-world scenarios. Moreover, accurate and universally acceptable quantification of ethical principles is a complex endeavor, requiring robust measurement and validation mechanisms.
+
 ### Equal Decentralization
 
 Ensuring that the development, control, and benefits of AI are not concentrated in specific regions, organizations, or entities but are instead distributed equitably across various stakeholders globally.
