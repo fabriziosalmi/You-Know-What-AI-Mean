@@ -1,11 +1,11 @@
-name: Publish README to GitHub Pages
+name: Publish README to GitHub Pages and Update Repo
 
 on:
   push:
     branches:
-      - main  # Trigger the action on push to the main branch
+      - main
     paths:
-      - 'README.md'  # Only run the workflow when README.md is changed
+      - 'README.md'
 
 jobs:
   publish:
@@ -19,6 +19,14 @@ jobs:
       run: |
         sudo apt-get install -y pandoc
         pandoc -s README.md -o index.html
+
+    - name: Commit and Push index.html
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add index.html
+        git commit -m "Update index.html" || exit 0  # Exit gracefully if no changes to commit
+        git push
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
