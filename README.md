@@ -248,7 +248,7 @@ Each principle is assigned a variable (\(R, T, F, S, C, A, L, E, G, O\)) and is 
 
 
 Where:
-- \(w_1, w_2, ..., w_{10}\) are the weights assigned to each principle based on its perceived importance. These weights should be determined through stakeholder input, regulatory guidance, and societal values, ensuring that the total sum of the weights is equal to 1, to maintain a balanced and normalized evaluation. 
+- \(w_1, w_2…) are the weights assigned to each principle based on its perceived importance. These weights should be determined through stakeholder input, regulatory guidance, and societal values, ensuring that the total sum of the weights is equal to 1, to maintain a balanced and normalized evaluation. 
 - \(R, T, F, S, C, A, L, E, G, O\) represent the extent to which the AI system adheres to the respective principles, quantified in a normalized manner, potentially on a scale from 0 (no adherence) to 1 (full adherence). 
 - The product of each weight and its respective principle gets summed up to generate the \(AI_{EI}\). 
 
