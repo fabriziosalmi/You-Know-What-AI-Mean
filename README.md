@@ -32,7 +32,7 @@ In a real-world context, where AI entities will permeate every facet of our dail
 
 A simple, accessible, and comprehensive framework can facilitate understanding, engagement, and proactive participation from various sectors of society, ensuring that the development, deployment, and management of AI is ethically grounded, socially beneficial, and widely comprehensible.
 
-### Basic principles 
+## Basic principles 
 1. **Respect**: AI must respect the user's privacy and data.
 2. **Transparency**: AI must be transparent in its decisions and actions.
 3. **Fairness**: AI must treat all users fairly and without bias.
@@ -44,7 +44,7 @@ A simple, accessible, and comprehensive framework can facilitate understanding, 
 9. **Legal**: AI must adhere to all applicable laws and regulations.
 10. **Social**: AI must consider the social impact of its actions.
 
-## 1. **Respect**: AI must respect the user's privacy and data.
+### 1. **Respect**: AI must respect the user's privacy and data.
 
 - AI systems, like virtual assistants, must prioritize user privacy and data protection. For example, when a user engages in a conversation with a virtual assistant, the AI should ensure that personal and sensitive information is neither stored nor shared without explicit consent from the user. This principle ensures that user interactions remain confidential and secure.
 
@@ -66,7 +66,7 @@ A simple, accessible, and comprehensive framework can facilitate understanding, 
 
 - In financial services, AI algorithms that manage user accounts, transactions, and investments should safeguard financial data, ensuring that user assets and information are protected from unauthorized access and fraudulent activities.
 
-## 2. **Transparency**: AI must be transparent in its decisions and actions.
+### 2. **Transparency**: AI must be transparent in its decisions and actions.
 
 - In e-commerce, AI recommendation engines should clearly communicate the reasons behind suggesting specific products or services, such as based on user browsing history, purchase history, or similar user preferences.
 
@@ -88,7 +88,7 @@ A simple, accessible, and comprehensive framework can facilitate understanding, 
 
 - AI used in predictive policing or crime prediction should transparently communicate the data and variables considered in its predictions, ensuring that law enforcement and the public understand the basis of its outputs.
 
-## 3. **Fairness**: AI must treat all users fairly and without bias.
+### 3. **Fairness**: AI must treat all users fairly and without bias.
 
 - In recruitment, AI systems should evaluate candidates based on their skills and qualifications, ensuring that no bias towards gender, age, ethnicity, or other non-merit factors influences hiring decisions.
 
@@ -110,7 +110,7 @@ A simple, accessible, and comprehensive framework can facilitate understanding, 
 
 - AI systems used in research and development should ensure that data from diverse demographic groups is considered, preventing biases in research outcomes and ensuring that findings are applicable to all relevant populations.
 
-## 4. **Safety**: AI must ensure the safety of the user and their data.
+### 4. **Safety**: AI must ensure the safety of the user and their data.
 
 - In healthcare, AI systems should prioritize patient safety by providing accurate and reliable diagnostic recommendations, ensuring that healthcare professionals can trust the AI's insights without compromising patient well-being.
 
@@ -132,7 +132,7 @@ A simple, accessible, and comprehensive framework can facilitate understanding, 
 
 - AI used in child-friendly applications should ensure the safety of young users by providing a secure and age-appropriate environment, safeguarding them from inappropriate content and online threats.
 
-## 5. **Control**: AI must allow the user to have control over its actions.
+### 5. **Control**: AI must allow the user to have control over its actions.
 
 - In smart home setups, AI should allow users to have ultimate control over devices, enabling them to easily modify settings, disable functionalities, or override AI decisions to ensure user comfort and security.
 
@@ -154,7 +154,7 @@ A simple, accessible, and comprehensive framework can facilitate understanding, 
 
 - AI used in online gaming should allow players to control AI interactions and personalization, providing options to adjust AI difficulty, modify settings, and manage data usage.
 
-## 6. **Accountability**: AI must be accountable for its actions.
+### 6. **Accountability**: AI must be accountable for its actions.
 
 - In financial trading, AI systems should have mechanisms to log, explain, and if possible, reverse transactions, ensuring that stakeholders can understand and rectify erroneous trades made by the AI.
 
@@ -176,7 +176,7 @@ A simple, accessible, and comprehensive framework can facilitate understanding, 
 
 - AI used in cybersecurity should log actions and decision-making processes, ensuring that in the event of an incident, the AI’s actions can be reviewed, understood, and addressed appropriately.
 
-## 7. **Reliability**: AI must be reliable and perform consistently.
+### 7. **Reliability**: AI must be reliable and perform consistently.
 
 - In healthcare, AI systems should consistently provide accurate and reliable diagnostic recommendations across a wide range of cases, ensuring that healthcare professionals can depend on its insights.
 
@@ -198,7 +198,7 @@ A simple, accessible, and comprehensive framework can facilitate understanding, 
 
 - AI used in logistics and supply chain management should consistently manage and optimize logistics operations, ensuring reliable delivery and inventory management.
 
-## 8. **Ethical**: AI must act ethically and follow moral guidelines.
+### 8. **Ethical**: AI must act ethically and follow moral guidelines.
 
 - In healthcare, AI systems should prioritize patient well-being and confidentiality, ensuring that diagnostic and treatment recommendations are made with the patient's best interest in mind.
 
@@ -220,7 +220,7 @@ A simple, accessible, and comprehensive framework can facilitate understanding, 
 
 - AI used in public services should act ethically, ensuring that services are provided fairly and equitably, and that user data is managed with confidentiality and integrity.
 
-## 9. **Legal**: AI must adhere to all applicable laws and regulations.
+### 9. **Legal**: AI must adhere to all applicable laws and regulations.
 
 - In healthcare, AI systems should adhere to health information privacy laws and regulations, ensuring that patient data is managed and shared in compliance with legal requirements.
 
@@ -242,7 +242,7 @@ A simple, accessible, and comprehensive framework can facilitate understanding, 
 
 - AI used in cybersecurity should comply with data protection laws and cybersecurity regulations, ensuring that user data is protected and managed in compliance with legal requirements.
 
-## 10. **Social**: AI must consider the social impact of its actions.
+### 10. **Social**: AI must consider the social impact of its actions.
 
 - In social media, AI algorithms should be designed to prevent the amplification of harmful, misleading, or divisive content, ensuring that technology does not negatively impact societal harmony and user well-being.
 
@@ -264,9 +264,9 @@ A simple, accessible, and comprehensive framework can facilitate understanding, 
 
 - AI used in legal tech should consider the social and ethical implications of legal research and recommendations, ensuring that actions and outputs do not perpetuate legal inequalities or social harm.
 
-#### Formula
+### AI Ethical Index
 
-The formula represents a conceptual “AI Ethical Index” (\(AI_{EI}\)) which is a hypothetical measurement designed to gauge the ethical standing of an AI system based on 10 fundamental principles: Respect, Transparency, Fairness, Safety, Control, Accountability, Reliability, Ethical, Legal, and Social. 
+The formula represents a conceptual "AI Ethical Index" which is a hypothetical measurement designed to gauge the ethical standing of an AI system based on 10 fundamental principles: Respect, Transparency, Fairness, Safety, Control, Accountability, Reliability, Ethical, Legal, and Social. 
 
 ![formula](https://raw.githubusercontent.com/fabriziosalmi/You-Know-What-AI-Mean/main/ethicalAI.svg)
 
@@ -278,9 +278,7 @@ Where:
 
 This synthetic index offers a simplified, linear, and additive conceptualization, and therefore may not capture the complex, non-linear, and potentially interdependent nature of these principles in real-world scenarios. Moreover, accurate and universally acceptable quantification of ethical principles is a complex endeavor, requiring robust measurement and validation mechanisms.
 
-**Limitations and Future Work for the AI Ethical Index**
-
-### Limitations:
+#### Limitations and Future Work for the AI Ethical Index**
 
 1. **Subjectivity in Quantification:**
    - Ethical principles are inherently qualitative and subjective. Translating these into quantitative measures risks oversimplifying or misrepresenting their nuances.
