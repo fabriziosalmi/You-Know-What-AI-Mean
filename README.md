@@ -274,8 +274,6 @@ Control, which encompasses the governance, regulation, and oversight of AI techn
 
 Furthermore, the benefits derived from AI, which include economic gains, technological advancements, and societal improvements, must be equitably distributed to ensure that all segments of society, regardless of their geographical location or socio-economic status, have access to and can leverage the advantages offered by AI. This involves creating mechanisms and policies that ensure that the economic, social, and technological benefits of AI permeate all levels of society, preventing the emergence of a technological elite and ensuring that the fruits of AI advancements are accessible and beneficial to all.
 
-In essence, the equitable distribution of development, control, and benefits of AI across global stakeholders is not merely a strategic necessity but a moral imperative, ensuring that as we progress into the future, the advancements, opportunities, and benefits offered by AI are accessible, available, and advantageous to all segments of the global population, fostering an environment of inclusivity, fairness, and collective progress.
-
 - **Decentralized Development and Innovation**: Actively facilitate and encourage the development and innovation of AI technologies across a myriad of geographical locations and communities, ensuring that there is diverse participation and representation from various cultures, socio-economic backgrounds, and technical expertise levels. This involves creating platforms and initiatives that empower local talents and organizations to contribute to the global AI development landscape, thereby fostering a rich, diverse, and inclusive technological evolution.
 
 - **Decentralized Control and Oversight**: Ensure that no single entity, organization, or group has predominant or unilateral control over AI technologies and their applications. This involves establishing mechanisms and policies that prevent the formation of monopolies, authoritarian uses, and the unilateral decision-making in the deployment and utilization of AI technologies. It is pivotal to create a balanced ecosystem where control is distributed and where various entities have equal say and accountability in the management and direction of AI advancements.
@@ -283,6 +281,8 @@ In essence, the equitable distribution of development, control, and benefits of 
 - **Decentralized Benefits and Economic Gains**: Ensure that the advantages, economic gains, and societal improvements derived from AI technologies are shared broadly and equitably. This involves preventing the concentration of benefits and profits in specific entities, organizations, or regions and ensuring that communities globally have access to the opportunities and advancements that AI brings. This includes creating frameworks that guide the equitable distribution of economic and societal benefits, ensuring that they permeate various sectors and demographics.
 
 - **Decentralized Governance and Decision-making**: Implement governance structures and decision-making bodies that involve a diverse array of stakeholders, ensuring that decisions regarding AI development, deployment, and utilization are made collectively, inclusively, and representatively. This involves establishing forums, committees, and platforms where various stakeholders, including technologists, policymakers, civil society members, and end-users, can contribute to the decision-making processes, thereby ensuring that the governance of AI is holistic, ethical, and considers multiple perspectives and interests.
+
+The equitable distribution of development, control, and benefits of AI across global stakeholders is not merely a strategic necessity but a moral imperative, ensuring that as we progress into the future, the advancements, opportunities, and benefits offered by AI are accessible, available, and advantageous to all segments of the global population, fostering an environment of inclusivity, fairness, and collective progress.
 
 ## Roles
 
@@ -300,97 +300,33 @@ In the intricate tapestry of Artificial Intelligence (AI) development and deploy
 
 - **Non-Governmental Organizations (NGOs)**: Actively involve themselves in advocacy, monitoring, and campaigning for ethical AI. NGOs should also serve as watchdogs, ensuring that the development and deployment of AI adhere to ethical norms and that any deviations are highlighted, addressed, and rectified. They should also engage in awareness campaigns to educate the public and other stakeholders about the ethical considerations of AI.
 
-In essence, the ethical development and deployment of AI necessitate a collaborative, concerted, and multi-stakeholder approach, where each entity contributes actively and effectively towards creating an environment where AI is developed and utilized in a manner that is ethically sound, legally compliant, and societally beneficial. This not only ensures that the opportunities presented by AI are fully realized but also that the challenges and risks are adequately mitigated and managed.
+The ethical development and deployment of AI necessitate a collaborative, concerted, and multi-stakeholder approach, where each entity contributes actively and effectively towards creating an environment where AI is developed and utilized in a manner that is ethically sound, legally compliant, and societally beneficial. This not only ensures that the opportunities presented by AI are fully realized but also that the challenges and risks are adequately mitigated and managed.
 
-### General Public roles in AI Development and Deployment
+### The General Public's Role in AI Development and Deployment
 
-The general public plays a crucial role in shaping the development and deployment of AI technologies. 
+In the intricate tapestry of Artificial Intelligence (AI) development and deployment, the general public emerges not merely as spectators but as pivotal actors, wielding the capability to shape, direct, and influence the trajectory of AI technologies. Their role, multifaceted and substantial, spans various aspects of AI evolution, from its ethical development to its transparent and beneficial application within society.
 
-**Advocacy**
-- Promote ethical AI development and usage.
-- Support organizations and movements that advocate for ethical AI.
+#### Advocacy and Awareness
 
-**Awareness**
-- Stay informed about AI technologies, their applications, and implications.
-- Understand the ethical considerations and challenges in AI.
+The general public stands as a beacon of advocacy, promoting ethical AI development and usage, while also extending support to organizations and movements that champion ethical AI. This role is deeply intertwined with a commitment to awareness, wherein staying informed about AI technologies, their applications, and implications becomes paramount. A well-informed public, understanding the ethical considerations and challenges inherent in AI, becomes a robust pillar supporting and driving ethical AI development and application.
 
-**Demanding Transparency**
-- Insist on clear explanations about how AI systems make decisions.
-- Seek transparency in AI applications in various sectors like healthcare, finance, and governance.
+#### Transparency and Utilization
 
-**Utilization**
-- Use AI technologies responsibly and ethically.
-- Be mindful of privacy and data protection when interacting with AI systems.
+Demanding transparency forms another crucial facet of the public's role, insisting on clear and comprehensible explanations about how AI systems formulate decisions and seeking transparency in AI applications across various sectors like healthcare, finance, and governance. This demand for transparency is complemented by responsible utilization, where the public uses AI technologies ethically and is mindful of privacy and data protection during interactions with AI systems.
 
-**Reporting**
-- Report unethical or harmful use of AI that you encounter.
-- Engage in whistleblowing if you witness misuse of AI in your environment.
+#### Reporting and Participation
 
-**Participation**
-- Engage in public discussions and forums about AI ethics.
-- Participate in public consultations and decision-making processes related to AI.
+The public also plays a vital role in reporting, where instances of unethical or harmful use of AI are reported and whistleblowing is engaged in when misuse of AI is witnessed. This is closely linked with active participation, where the public engages in discussions and forums about AI ethics and takes part in public consultations and decision-making processes related to AI.
 
-**Supporting Accountability**
-- Demand accountability from AI developers and users.
-- Support policies and regulations that hold AI systems and their developers accountable.
+#### Accountability and Fairness
 
-**Promoting Fairness**
-- Advocate for unbiased and fair AI systems.
-- Support initiatives that aim to reduce bias and promote fairness in AI.
+Supporting accountability involves the public demanding accountability from AI developers and users and supporting policies and regulations that hold AI systems and developers accountable. This is harmoniously aligned with promoting fairness, where the public advocates for unbiased and fair AI systems and supports initiatives that aim to mitigate bias and promote fairness in AI.
 
-**Encouraging Sustainability**
-- Support and utilize AI technologies that prioritize sustainability.
-- Advocate for the development of eco-friendly AI technologies.
+#### Sustainability and Privacy
 
-**Upholding Privacy**
-- Be vigilant about protecting your data and privacy.
-- Support policies and technologies that prioritize data protection and user privacy.
+Encouraging sustainability involves the public supporting and utilizing AI technologies that prioritize sustainability and advocating for the development and use of eco-friendly AI technologies. Upholding privacy, where the public is vigilant about protecting personal data and privacy and supports policies and technologies that prioritize data protection and user privacy, forms the final, yet equally significant, aspect of the public's role.
 
-The general public, being the end-users and those affected by AI technologies, indeed have a substantial influence on how AI evolves and is deployed in society. Their active participation, advocacy, and vigilance can drive companies and governments towards more ethical, transparent, and beneficial AI. Ensuring that the public is informed, engaged, and empowered is crucial in navigating the ethical deployment of AI technologies. This list can serve as a guideline for individuals and communities to understand their role and potential impact in the realm of AI.
-
-### Examples for General Public in AI Interaction and Advocacy
-
-#### 1. **Advocacy**
-- **SUGGESTED**: Support and promote ethical AI development and usage.
-- **FORBIDDEN**: Ignoring or undermining the importance of ethical considerations in AI.
-
-#### 2. **Awareness**
-- **SUGGESTED**: Continuously educate oneself about AI and its societal implications.
-- **FORBIDDEN**: Remaining indifferent or uninformed about technological advancements.
-
-#### 3. **Demanding Transparency**
-- **SUGGESTED**: Seek clarity and transparency in AI systems and algorithms.
-- **FORBIDDEN**: Accepting AI decisions without questioning or understanding them.
-
-#### 4. **Utilization**
-- **SUGGESTED**: Use AI technologies ethically and responsibly.
-- **FORBIDDEN**: Misusing AI technologies for unethical purposes or gains.
-
-#### 5. **Reporting**
-- **SUGGESTED**: Report instances of AI misuse or unethical practices.
-- **FORBIDDEN**: Ignoring or bypassing incidents of AI misuse.
-
-#### 6. **Participation**
-- **SUGGESTED**: Actively participate in public discussions and decisions about AI.
-- **FORBIDDEN**: Apathy towards public consultations and decision-making processes.
-
-#### 7. **Supporting Accountability**
-- **SUGGESTED**: Demand and support accountability in AI development and deployment.
-- **FORBIDDEN**: Overlooking accountability issues and not holding entities responsible.
-
-#### 8. **Promoting Fairness**
-- **SUGGESTED**: Advocate for unbiased, equitable, and fair AI systems.
-- **FORBIDDEN**: Ignoring or perpetuating biased AI systems and algorithms.
-
-#### 9. **Encouraging Sustainability**
-- **SUGGESTED**: Support AI technologies that prioritize and promote sustainability.
-- **FORBIDDEN**: Supporting or utilizing AI technologies that harm the environment.
-
-#### 10. **Upholding Privacy**
-- **SUGGESTED**: Protect personal data and prioritize privacy when interacting with AI.
-- **FORBIDDEN**: Neglecting data privacy and engaging with non-secure AI systems.
-
-This decalogue provides a guideline for the general public to navigate their interactions and advocacy in the realm of AI. It emphasizes the importance of active participation, ethical utilization, and continuous advocacy for transparency, accountability, and fairness in AI technologies. The general public, being a significant stakeholder in AI development and deployment, can utilize this decalogue to ensure that their interactions with AI are ethical, safe, and beneficial to society at large. This also ensures that they play an active role in shaping a future where AI is developed and deployed ethically and responsibly.
+In essence, the general public, through their active advocacy, awareness, demand for transparency, ethical utilization, vigilant reporting, participative approach, support for accountability, promotion of fairness, encouragement of sustainability, and upholding of privacy, becomes a formidable force that can steer the development and deployment of AI technologies towards an ethical, transparent, and beneficial future. This role, while multifaceted, forms a cohesive and robust framework that ensures that AI technologies evolve and are deployed in a manner that is ethically sound, socially beneficial, and aligned with human values and norms.
 
 ## Global Alert System for AI Reporting
 
