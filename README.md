@@ -817,7 +817,3 @@ These aspects ensure that AI technologies are developed with a deep respect for 
 ---
 
 _Written togheter_
-In the silence of the room, amidst the clatter of keys and the soft hum of the machine, he finds a semblance of peace, a momentary respite amidst the chaos. For he knows, the path ahead is fraught with challenges, with dilemmas, with the eternal battle between progress and morality.
-
-And so, he ventures forth, into the abyss, seeking, exploring, crafting a future where machines, his creations, navigate through the intricate, complex web of human ethics and responsibility, where they act, decide, live, not merely as entities of logic but as beings, albeit artificial, of moral and ethical substance.
-```
