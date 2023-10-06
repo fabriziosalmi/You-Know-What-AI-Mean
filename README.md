@@ -374,63 +374,53 @@ Each stakeholder plays a vital role in ensuring the ethical development and depl
 - **Academia**: Engage in research, development of ethical frameworks, and education.
 - **NGOs**: Involve in advocacy, monitoring, and campaigning for ethical AI.
 
-### Implementation
-
-1. **Consultation**: Engage with experts, policymakers, developers, and the public to gather diverse insights and perspectives.
-2. **Drafting**: Create a detailed draft of the decalogue, incorporating the gathered insights and ensuring comprehensiveness.
-3. **Review**: Subject the draft to rigorous review by various stakeholders to ensure its validity, applicability, and effectiveness.
-4. **Publication**: Publish the finalized decalogue and promote it among relevant stakeholders and the general public.
-5. **Advocacy**: Advocate for the adoption and implementation of the guidelines in AI development and deployment practices globally.
-6. **Monitoring**: Monitor the implementation and impact of the guidelines and gather feedback for continuous improvement.
-7. **Revision**: Periodically revise the guidelines based on feedback, new insights, and technological advancements.
-
-### General Public roles in AI Development and Deployment
+## General Public roles in AI Development and Deployment
 
 The general public plays a crucial role in shaping the development and deployment of AI technologies. 
 
-1. **Advocacy**
+**Advocacy**
 - Promote ethical AI development and usage.
 - Support organizations and movements that advocate for ethical AI.
 
-2.  **Awareness**
+**Awareness**
 - Stay informed about AI technologies, their applications, and implications.
 - Understand the ethical considerations and challenges in AI.
 
-3.  **Demanding Transparency**
+**Demanding Transparency**
 - Insist on clear explanations about how AI systems make decisions.
 - Seek transparency in AI applications in various sectors like healthcare, finance, and governance.
 
-4.  **Utilization**
+**Utilization**
 - Use AI technologies responsibly and ethically.
 - Be mindful of privacy and data protection when interacting with AI systems.
 
-5.  **Reporting**
+**Reporting**
 - Report unethical or harmful use of AI that you encounter.
 - Engage in whistleblowing if you witness misuse of AI in your environment.
 
-6.  **Participation**
+**Participation**
 - Engage in public discussions and forums about AI ethics.
 - Participate in public consultations and decision-making processes related to AI.
 
-7.  **Supporting Accountability**
+**Supporting Accountability**
 - Demand accountability from AI developers and users.
 - Support policies and regulations that hold AI systems and their developers accountable.
 
-8.  **Promoting Fairness**
+**Promoting Fairness**
 - Advocate for unbiased and fair AI systems.
 - Support initiatives that aim to reduce bias and promote fairness in AI.
 
-9.  **Encouraging Sustainability**
+**Encouraging Sustainability**
 - Support and utilize AI technologies that prioritize sustainability.
 - Advocate for the development of eco-friendly AI technologies.
 
-10. **Upholding Privacy**
+**Upholding Privacy**
 - Be vigilant about protecting your data and privacy.
 - Support policies and technologies that prioritize data protection and user privacy.
 
 The general public, being the end-users and those affected by AI technologies, indeed have a substantial influence on how AI evolves and is deployed in society. Their active participation, advocacy, and vigilance can drive companies and governments towards more ethical, transparent, and beneficial AI. Ensuring that the public is informed, engaged, and empowered is crucial in navigating the ethical deployment of AI technologies. This list can serve as a guideline for individuals and communities to understand their role and potential impact in the realm of AI.
 
-### Examples for General Public in AI Interaction and Advocacy
+## Examples for General Public in AI Interaction and Advocacy
 
 #### 1. **Advocacy**
 - **SUGGESTED**: Support and promote ethical AI development and usage.
