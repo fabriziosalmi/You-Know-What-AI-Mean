@@ -4,7 +4,6 @@ on:
   push:
     paths:
       - 'README.md'
-  workflow_dispatch:
 
 jobs:
   build:
@@ -26,8 +25,10 @@ jobs:
     - name: Append MathJax config to index.html
       run: echo '<script src="mathjax-config.js"></script>' >> index.html
 
-    - name: Upload index.html
-      uses: actions/upload-artifact@v2
-      with:
-        name: index.html
-        path: index.html
+    - name: Commit and push index.html
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add index.html
+        git commit -m "Add generated index.html" || echo "No changes to commit"
+        git push origin HEAD:${{ github.ref }}
