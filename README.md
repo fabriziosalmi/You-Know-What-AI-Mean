@@ -375,19 +375,15 @@ Key Objectives:
 Now, let's dig a little deeper into what UAEAI aims to do:
 
 - Flexibility: Imagine AI as a chameleon that can change its colors depending on where it is and what it's doing. Just like you might dress differently for school than for a party, UAEAI allows AI to follow different rules depending on the situation. It's like giving AI a set of guidelines that make sense for each unique job it has to do. This way, AI can always be a good, helpful friend, no matter where it's working.
-
 - Transparency: Have you ever asked a friend why they did something, and they didn't give you a clear answer? That can be frustrating, right? Well, we don't want that from AI. We want AI to be like a friend who always explains their decisions so we can understand them. UAEAI is like a magnifying glass that helps us see exactly how AI makes choices. It's as if AI is saying, "Hey, here's why I did this, so you can see I'm doing the right thing."
-
 - Collaboration: Imagine building a super cool castle with friends. Each friend has a different idea about how to make it amazing. That's a bit like ethics, where different people and organizations have different ideas about what's right and wrong. UAEAI is like inviting all these friends to help decide what's best. It's not just one person's opinion; it's a big, friendly group of opinions. This way, AI can be fair and make everyone happy.
-
 - Hope for Improvement: Remember when you practiced riding your bike without training wheels? At first, it was wobbly, but you got better and better, right? UAEAI is a bit like that practice. It believes that AI can get better over time, just like you did with your bike. It's not a one-time thing; it's a way for AI and humans to keep making things better and better, like turning a boring book into an exciting adventure.
 
 So, UAEAI is not just a map; it's a journey. It's an adventure where we explore with AI to make sure it's always being a good friend. It's like a promise that AI and humans can work together to make the world a fairer, more responsible, and more exciting place. If you're curious about how all this works, join us on this amazing journey into the world of UAEAI, where we aim to make AI and humans the best team ever!
 
-
 ---
 
-### Tree of Ethical Principles and Sub-components
+### Ethical Principles and Sub-components
 
 ### Principle 1: Respect
 
