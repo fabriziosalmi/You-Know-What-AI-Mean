@@ -637,13 +637,13 @@ Adjusts the index based on the reliability of data or information, whether machi
 
 3. **Bias Correction Term (B):**
 
-$B = \text{Function(Bias Factors)}$$
+$B = \text{Function(Bias Factors)}$
 
 Corrects for biases in decision-making, whether algorithmic or human cognitive biases.
 
 4. **Efficiency Factor (E):**
 
-$E = \text{Function(Resources)}$$
+$E = \text{Function(Resources)}$
 
 Accounts for the resources used, whether computational for AI or time and effort for humans.
 
@@ -657,7 +657,7 @@ Each principle $\( P_p \)$ is calculated as:
 $P_p = \left(1 - \sum_{q=1}^{10} O[p][q]\right) \cdot \omega_p \times \left( \sum_{j=1}^{10} \theta_{pj} \times S_{pj} \right)$
 
 
-The factor $\( \left(1 - \sum_{q=1}^{10} O[p][q]\right) \)$ adjusts the weight of each subcomponent based on its overlap with others.
+The factor $\left(1 - \sum_{q=1}^{10} O[p][q]\right)$ adjusts the weight of each subcomponent based on its overlap with others.
 
 #### Additional Features:
 
@@ -684,7 +684,7 @@ The Universal Adaptive Ethical AI Index is designed to be dynamic and adaptable 
 
 ### Dynamic Weights for Principles and Sub-components
 
-The weights $\( \omega_P \)$ and $\( \theta_{Pj} \)$ can be dynamically adjusted based on societal changes, technological advancements, or new ethical considerations. For example, if data privacy becomes a more pressing issue, the weight for the "Respect" principle and its "Privacy" sub-component could be increased.
+The weights $\omega_P$ and $\theta_{Pj}$ can be dynamically adjusted based on societal changes, technological advancements, or new ethical considerations. For example, if data privacy becomes a more pressing issue, the weight for the "Respect" principle and its "Privacy" sub-component could be increased.
 
 ### Periodic Re-evaluation and Updating
 
@@ -709,13 +709,13 @@ The AI system could include feedback loops that allow it to learn from its ethic
 
 **Quantifying Subcomponent Overlap:**
 
-To begin, we must quantitatively measure the degree of overlap between subcomponents within the index. This is achieved through the creation of an "Overlap Matrix," denoted as O, where each element O[i][j] represents the degree of overlap between subcomponent $\i$ and subcomponent $\j$. The overlap degree is expressed as a numerical value, typically a percentage, indicating how much these subcomponents share common ethical considerations.
+To begin, we must quantitatively measure the degree of overlap between subcomponents within the index. This is achieved through the creation of an "Overlap Matrix," denoted as O, where each element O[i][j] represents the degree of overlap between subcomponent \i and subcomponent \j. The overlap degree is expressed as a numerical value, typically a percentage, indicating how much these subcomponents share common ethical considerations.
 
 **Mitigating Subcomponent Overlap:**
 
 With the overlap quantified, we introduce a mathematical operation that effectively mitigates overlap within the index calculation. This operation is designed to adjust the contribution of overlapping subcomponents to the overall index in a manner that reduces redundancy.
 
-The modified UAEAI formula now includes a factor $\(\left(1 - \sum_{q=1}^{10} O[p][q]\right)\)$ for each subcomponent $P_p$. This factor adjusts the weight of the subcomponent based on the degree of overlap it shares with others. Subcomponents with higher overlap receive a reduced weight in the index calculation, preventing them from dominating the overall result.
+The modified UAEAI formula now includes a factor $\left(1 - \sum_{q=1}^{10} O[p][q]\right)$ for each subcomponent $P_p$. This factor adjusts the weight of the subcomponent based on the degree of overlap it shares with others. Subcomponents with higher overlap receive a reduced weight in the index calculation, preventing them from dominating the overall result.
 
 **Setting an Overlap Threshold:**
 
