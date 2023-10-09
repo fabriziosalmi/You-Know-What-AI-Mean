@@ -1,36 +1,33 @@
-name: Publish README to GitHub Pages and Update Repo
+name: Convert README to HTML with Math Support
 
 on:
   push:
-    branches:
-      - main
     paths:
       - 'README.md'
   workflow_dispatch:
 
 jobs:
-  publish:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
+    - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Convert README.md to HTML
-      run: |
-        sudo apt-get install -y pandoc
-        pandoc -s README.md -o index.html
+    - name: Install Pandoc
+      run: sudo apt-get install pandoc
 
-    - name: Commit and Push index.html
+    - name: Convert README.md to index.html
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add index.html
-        git commit -m "Update index.html" || exit 0  # Exit gracefully if no changes to commit
-        git push
+        pandoc README.md -s -o index.html \
+        --mathjax="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML" \
+        --metadata pagetitle="You Know What AI Mean"
 
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
+    - name: Append MathJax config to index.html
+      run: echo '<script src="mathjax-config.js"></script>' >> index.html
+
+    - name: Upload index.html
+      uses: actions/upload-artifact@v2
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./
+        name: index.html
+        path: index.html
