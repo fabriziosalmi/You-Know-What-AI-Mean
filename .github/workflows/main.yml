@@ -1,0 +1,32 @@
+name: Convert README to HTML with Math Support
+
+on:
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Install Pandoc
+      run: sudo apt-get install pandoc
+
+    - name: Convert README.md to index.html
+      run: |
+        pandoc README.md -s -o index.html \
+        --mathjax="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML" \
+        --metadata pagetitle="You Know What AI Mean"
+
+    - name: Append MathJax config to index.html
+      run: echo '<script src="mathjax-config.js"></script>' >> index.html
+
+    - name: Upload index.html
+      uses: actions/upload-artifact@v2
+      with:
+        name: index.html
+        path: index.html
