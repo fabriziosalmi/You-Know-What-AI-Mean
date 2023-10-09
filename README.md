@@ -358,10 +358,6 @@ However, with great power comes great responsibility. We expect AI to make decis
 
 Enter the Universal Adaptive Ethical AI Index (UAEAI)—a beacon of hope in the evolving landscape of AI ethics. UAEAI is more than a concept; it's a vision of a world where AI and humans collaborate to ensure that AI systems not only meet our ethical standards but continuously improve upon them.
 
----
-
-**Introduction:**
-
 Imagine a world where machines, like your helpful robot buddy, can think and learn just like you. They're not made of metal and bolts but lines of code that can do amazing things like talking to you, helping doctors, or driving cars. These smart machines are called "Artificial Intelligence" or "AI" for short.
 
 Now, here's the interesting part. We want our AI friends to be good, just like our human friends. We want them to make fair decisions, tell us what they're doing, and be responsible for their actions. After all, even though they're made of code, they play big roles in our lives.
@@ -619,40 +615,54 @@ Thank you for providing a detailed list of ethical principles and their respecti
 
 ### Universal Adaptive Ethical AI Index Formula
 
-The formula for the Universal Adaptive Ethical AI Index, incorporating these 10 ethical principles, a non-exaustive subset of respective sub-components and additional features, can be expressed as:
+The formula for the Universal Adaptive Ethical AI Index, incorporating these 10 ethical principles, a non-exhaustive subset of respective sub-components and additional features, can be expressed as:
 
-\[ \text{UAEAI} = S \times D \times B \times E \times \sum_{p=1}^{10} \left(1 - \sum_{q=1}^{10} O[p][q]\right) \cdot P_p \]
+$$ 
+\text{UAEAI} = S \times D \times B \times E \times \sum_{p=1}^{10} \left(1 - \sum_{q=1}^{10} O[p][q]\right) \cdot P_p 
+$$
 
 #### Components Explained:
 
 1. **Simplification Term (S):**
-   - \[ S = \frac{1}{\sqrt{10 \times 10}} \]
-   - Simplifies the formula for easier interpretation and application in both AI and human contexts.
+
+$S = \frac{1}{\sqrt{10 \times 10}}$
+
+Simplifies the formula for easier interpretation and application in both AI and human contexts.
 
 2. **Data Reliability Factor (D):**
-   - \[ D = \text{avg}(\text{Reliability of } S_{pj}) \]
-   - Adjusts the index based on the reliability of data or information, whether machine-generated or human-provided.
+
+$D = \text{avg}(\text{Reliability of } S_{pj})$
+
+Adjusts the index based on the reliability of data or information, whether machine-generated or human-provided.
 
 3. **Bias Correction Term (B):**
-   - \[ B = \text{Function(Bias Factors)} \]
-   - Corrects for biases in decision-making, whether algorithmic or human cognitive biases.
+
+$B = \text{Function(Bias Factors)}$$
+
+Corrects for biases in decision-making, whether algorithmic or human cognitive biases.
 
 4. **Efficiency Factor (E):**
-   - \[ E = \text{Function(Resources)} \]
-   - Accounts for the resources used, whether computational for AI or time and effort for humans.
+
+$E = \text{Function(Resources)}$$
+
+Accounts for the resources used, whether computational for AI or time and effort for humans.
 
 5. **Overlap Matrix (O):**
-   - Represents the degree of overlap between subcomponents, quantified as a numerical value between 0 and 1.
+
+Represents the degree of overlap between subcomponents, quantified as a numerical value between 0 and 1.
 
 6. **Principles (P):**
-   - Each principle \(P_p\) is calculated as:
-   - \[ P_p = \left(1 - \sum_{q=1}^{10} O[p][q]\right) \cdot \omega_p \times \left( \sum_{j=1}^{10} \theta_{pj} \times S_{pj} \right) \]
-   - The factor \(\left(1 - \sum_{q=1}^{10} O[p][q]\right)\) adjusts the weight of each subcomponent based on its overlap with others.
+Each principle $\( P_p \)$ is calculated as:
+
+$P_p = \left(1 - \sum_{q=1}^{10} O[p][q]\right) \cdot \omega_p \times \left( \sum_{j=1}^{10} \theta_{pj} \times S_{pj} \right)$
+
+
+The factor $\( \left(1 - \sum_{q=1}^{10} O[p][q]\right) \)$ adjusts the weight of each subcomponent based on its overlap with others.
 
 #### Additional Features:
 
 - **Overlap Threshold (T):**
-   - Define a threshold value, \(T\), which determines when subcomponent overlap is significant enough to warrant mitigation.
+   - Define a threshold value, $\( T \)$, which determines when subcomponent overlap is significant enough to warrant mitigation.
 
 - **Dynamic Adjustment (DA):**
    - Implement a mechanism for dynamic adjustment of the overlap matrix and mitigation factors to adapt to changing ethical considerations.
@@ -674,7 +684,7 @@ The Universal Adaptive Ethical AI Index is designed to be dynamic and adaptable 
 
 ### Dynamic Weights for Principles and Sub-components
 
-The weights \( \omega_P \) and \( \theta_{Pj} \) can be dynamically adjusted based on societal changes, technological advancements, or new ethical considerations. For example, if data privacy becomes a more pressing issue, the weight for the "Respect" principle and its "Privacy" sub-component could be increased.
+The weights $\( \omega_P \)$ and $\( \theta_{Pj} \)$ can be dynamically adjusted based on societal changes, technological advancements, or new ethical considerations. For example, if data privacy becomes a more pressing issue, the weight for the "Respect" principle and its "Privacy" sub-component could be increased.
 
 ### Periodic Re-evaluation and Updating
 
@@ -699,13 +709,13 @@ The AI system could include feedback loops that allow it to learn from its ethic
 
 **Quantifying Subcomponent Overlap:**
 
-To begin, we must quantitatively measure the degree of overlap between subcomponents within the index. This is achieved through the creation of an "Overlap Matrix," denoted as O, where each element O[i][j] represents the degree of overlap between subcomponent i and subcomponent j. The overlap degree is expressed as a numerical value, typically a percentage, indicating how much these subcomponents share common ethical considerations.
+To begin, we must quantitatively measure the degree of overlap between subcomponents within the index. This is achieved through the creation of an "Overlap Matrix," denoted as O, where each element O[i][j] represents the degree of overlap between subcomponent $\i$ and subcomponent $\j$. The overlap degree is expressed as a numerical value, typically a percentage, indicating how much these subcomponents share common ethical considerations.
 
 **Mitigating Subcomponent Overlap:**
 
 With the overlap quantified, we introduce a mathematical operation that effectively mitigates overlap within the index calculation. This operation is designed to adjust the contribution of overlapping subcomponents to the overall index in a manner that reduces redundancy.
 
-The modified UAEAI formula now includes a factor \(\left(1 - \sum_{q=1}^{10} O[p][q]\right)\) for each subcomponent P_p. This factor adjusts the weight of the subcomponent based on the degree of overlap it shares with others. Subcomponents with higher overlap receive a reduced weight in the index calculation, preventing them from dominating the overall result.
+The modified UAEAI formula now includes a factor $\(\left(1 - \sum_{q=1}^{10} O[p][q]\right)\)$ for each subcomponent $P_p$. This factor adjusts the weight of the subcomponent based on the degree of overlap it shares with others. Subcomponents with higher overlap receive a reduced weight in the index calculation, preventing them from dominating the overall result.
 
 **Setting an Overlap Threshold:**
 
