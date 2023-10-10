@@ -608,7 +608,7 @@ So, UAEAI is not just a map; it's a journey. It's an adventure where we explore 
 
 These ethical principles and their respective sub-components provide a comprehensive framework for evaluating AI ethics within the Universal Adaptive Ethical AI Index. By considering these diverse ethical dimensions, the index enables a thorough assessment of AI systems' ethical behavior across various contexts and applications.
 
-Thank you for providing a detailed list of ethical principles and their respective sub-components. This comprehensive framework can serve as the foundation for the Universal Adaptive Ethical AI Index. It allows for a nuanced evaluation of AI systems across various ethical dimensions, ensuring responsible development and deployment.
+This comprehensive framework can serve as the foundation for the Universal Adaptive Ethical AI Index. It allows for a nuanced evaluation of AI systems across various ethical dimensions, ensuring responsible development and deployment.
 
 ### Universal Adaptive Ethical AI Index Formula
 
