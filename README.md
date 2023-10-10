@@ -706,7 +706,7 @@ The AI system could include feedback loops that allow it to learn from its ethic
 
 **Quantifying Subcomponent Overlap**
 
-To begin, we must quantitatively measure the degree of overlap between subcomponents within the index. This is achieved through the creation of an "Overlap Matrix," denoted as $O$, where each element $O[i][j]$ represents the degree of overlap between subcomponent \i and subcomponent \j. The overlap degree is expressed as a numerical value, typically a percentage, indicating how much these subcomponents share common ethical considerations.
+To begin, we must quantitatively measure the degree of overlap between subcomponents within the index. This is achieved through the creation of an "Overlap Matrix," denoted as $O$, where each element $O[i][j]$ represents the degree of overlap between subcomponent i and subcomponent j. The overlap degree is expressed as a numerical value, typically a percentage, indicating how much these subcomponents share common ethical considerations.
 
 **Mitigating Subcomponent Overlap**
 
