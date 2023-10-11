@@ -1,43 +1,39 @@
 import numpy as np
-import random
 
-def initialize_parameters():
-    """Initialize parameters values between 0 and 1."""
+def initialize_parameters() -> dict:
+    """Initialize and return parameters with values between 0 and 1."""
     return {
-        'S': 1,  # Simplification Term
-        'D': 1,  # Data Reliability Factor
-        'B': 1,  # Bias Correction Term
-        'E': 1,  # Efficiency Factor
-        'T': 1   # Overlap Threshold
+        'S': 1.0,  # Simplification Term
+        'D': 1.0,  # Data Reliability Factor
+        'B': 1.0,  # Bias Correction Term
+        'E': 1.0,  # Efficiency Factor
+        'T': 1.0   # Overlap Threshold
     }
 
-def generate_random_principles(num_principles, num_subcomponents):
-    """Generate random values for principles with subcomponents."""
-    return {f'P{i+1}': np.random.rand(num_subcomponents) for i in range(num_principles)}
+def generate_random_principles(num_principles: int, num_subcomponents: int) -> dict:
+    """Generate and return random values for principles with subcomponents."""
+    return {f'P{i+1}': np.random.uniform(0, 1, num_subcomponents) for i in range(num_principles)}
 
-def generate_overlap_matrix(num_principles, threshold):
-    """Generate an overlap matrix with random values."""
-    matrix = np.random.rand(num_principles, num_principles) * 0.5
+def generate_overlap_matrix(num_principles: int, threshold: float) -> np.ndarray:
+    """Generate and return an overlap matrix with random values."""
+    matrix = np.random.uniform(0, 0.5, (num_principles, num_principles))
     matrix[matrix < threshold] = 0
     return matrix
 
-def adjust_principles(principles, overlap_matrix):
-    """Adjust principles based on the overlap matrix."""
-    adjusted = {}
-    for i, (key, values) in enumerate(principles.items()):
-        overlap_avg = np.mean(overlap_matrix[i, :])
-        adjusted[key] = values * (1 - overlap_avg)
-    return adjusted
+def adjust_principles(principles: dict, overlap_matrix: np.ndarray) -> dict:
+    """Adjust principles based on the overlap matrix and return them."""
+    overlap_avg = np.mean(overlap_matrix, axis=1)
+    return {key: values * (1 - overlap_avg[i]) for i, (key, values) in enumerate(principles.items())}
 
-def calculate_core_indices(adjusted_principles, params):
-    """Calculate Core Ethical Index for each principle."""
-    return {key: params['S'] * params['D'] * params['B'] * params['E'] * np.mean(values) for key, values in adjusted_principles.items()}
+def calculate_core_indices(adjusted_principles: dict, params: dict) -> dict:
+    """Calculate and return Core Ethical Index for each principle."""
+    return {key: np.mean(values) * np.prod(list(params.values())) for key, values in adjusted_principles.items()}
 
-def calculate_final_UAEAI_score(core_indices):
-    """Calculate the final UAEAI score."""
+def calculate_final_UAEAI_score(core_indices: dict) -> float:
+    """Calculate and return the final UAEAI score."""
     return np.mean(list(core_indices.values()))
 
-if __name__ == "__main__":
+def main():
     params = initialize_parameters()
     num_principles = 10
     num_subcomponents = 10
@@ -62,3 +58,6 @@ if __name__ == "__main__":
 
     print("\nFinal UAEAI Score:")
     print(final_UAEAI_score)
+
+if __name__ == "__main__":
+    main()
