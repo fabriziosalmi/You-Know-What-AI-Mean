@@ -7,5 +7,3 @@ The purpose of this project is to raise awareness about the potential risks asso
 This list will be updated regularly as we continue to identify channels that meet these criteria. We believe in the power of collective action and transparency, and we invite you to join us in this endeavor to make YouTube a safer platform for our children.
 
 ---
-
-Please feel free to modify this as per your needs. Let me know if you need help with anything else.
