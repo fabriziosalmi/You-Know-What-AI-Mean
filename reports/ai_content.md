@@ -1,4 +1,4 @@
-# Sub-Project Introduction
+# Arguable content tracker
 
 Welcome to this sub-project! This is a unique initiative aimed at creating a comprehensive list of YouTube channels that fall into a specific subset: they are AND/OR promote  **faceless**, **fully automated**, **monetized**, and **deliver arguable content most of the time specifically for children**.
 
