@@ -3,6 +3,8 @@
 *Abstract:*  
 The integration of artificial intelligence (AI) into numerous sectors has magnified the need for robust ethical evaluation frameworks. This paper delves into a rigorous evaluation of ChatGPT, a cutting-edge AI language model, against the backdrop of the Simplified Universal Adaptive Ethical AI Index. Leveraging hypothetical metrics, ChatGPT achieved an aggregate score of 70.4%, offering a comprehensive lens into its ethical alignment and potential enhancement areas.
 
+![comic](https://github.com/fabriziosalmi/You-Know-What-AI-Mean/blob/main/comic.png?raw=true)
+
 *1. Introduction:*  
 The digital age has ushered in an era where AI systems are omnipresent, influencing myriad facets of daily life and industry operations. Their pervasive nature amplifies the imperative for ethical considerations. The Simplified Universal Adaptive Ethical AI Index serves as a beacon in this context, elucidating key principles that AI systems should strive to embody. This research endeavors to present an in-depth evaluation of ChatGPT, spotlighting its ethical achievements and areas ripe for improvement.
 
