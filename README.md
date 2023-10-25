@@ -1,6 +1,7 @@
 # You Know What AI Mean
 _A comprehensive guide through the multifaceted landscape of artificial intelligence ethics and responsibility._
 
+I started this project because I got porn content while using chatGPT 4 woth TMDB plugin. I then report the issue and started to discuss with the chatbot how to really fix such upcoming, AI related problems.
 ## Introduction
 
 In an age where artificial intelligence (AI) increasingly intertwines with every facet of human life—be it healthcare, education, governance, or security—the need for a thoughtful ethical framework is more pressing than ever. Simply understanding the technical intricacies of AI is insufficient; we must also grapple with its complex ethical, societal, and legal dimensions. This guide serves as a comprehensive roadmap for navigating these multifaceted challenges, aiming to balance AI's transformative potential with the imperative of upholding ethical and moral standards. 
