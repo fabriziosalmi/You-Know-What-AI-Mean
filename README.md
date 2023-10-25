@@ -727,11 +727,6 @@ This comprehensive framework can serve as the foundation for the Universal Adapt
 
 ### Universal Adaptive Ethical AI Index Formula
 
-Of course, I understand. Let's simplify the approach and remove some of the less critical components. 
-
-I'll retain the core components: Simplification Term (S), Data Reliability Factor (D), Bias Correction Term (B), Efficiency Factor (E), and Transparency Score (TS). We'll skip the more intricate components like the Overlap Matrix and Dynamic Adjustment for this iteration.
-
-### Ethical AI Evaluation Process:
 
 #### 1. **Initial Questionnaire**:
 There are 100 questions, 10 for each of the 10 ethical principles. Each question is ranked on a scale of 0 to 10.
@@ -783,6 +778,8 @@ $$
 $$
 \text{UAEAI} \approx 0.704 
 $$
+
+Simulated with chatGPT 4.
 
 So, the Universal Adaptive Ethical AI Index for this simulation, using the simplified formula, is approximately 0.704 or, better, **70.4%**.
 
