@@ -2,6 +2,11 @@
 _A comprehensive guide through the multifaceted landscape of artificial intelligence ethics and responsibility._
 
 I started this project because I got porn content while using chatGPT 4 and TMDB plugin. I then report the issue and started to discuss with the chatbot how to really fix such upcoming, AI related problems.
+
+US gov about responsible AI: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
+
+
+
 ## Introduction
 
 In an age where artificial intelligence (AI) increasingly intertwines with every facet of human life—be it healthcare, education, governance, or security—the need for a thoughtful ethical framework is more pressing than ever. Simply understanding the technical intricacies of AI is insufficient; we must also grapple with its complex ethical, societal, and legal dimensions. This guide serves as a comprehensive roadmap for navigating these multifaceted challenges, aiming to balance AI's transformative potential with the imperative of upholding ethical and moral standards. 
