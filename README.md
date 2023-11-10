@@ -3,8 +3,7 @@ _A comprehensive guide through the multifaceted landscape of artificial intellig
 
 I started this project because I got porn content while using chatGPT 4 and TMDB plugin. I then report the issue and started to discuss with the chatbot how to really fix such upcoming, AI related problems.
 
-US gov about responsible AI: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
-
+I ended up by evaluating dozens of LLMs both local and API powered for automated, supervised, AI ethical assessments.
 
 
 ## Introduction
