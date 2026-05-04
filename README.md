@@ -88,6 +88,7 @@ The TMDB failure was at the integration boundary between an LLM and an external 
 - **[asn-api](https://github.com/fabriziosalmi/asn-api)** — real-time trust scoring for Internet Autonomous Systems using BGP telemetry, threat intelligence, and network topology analysis. Trust expressed at the protocol layer.
 - **[domainmate](https://github.com/fabriziosalmi/domainmate)** — domain and security monitoring (WHOIS expiration, SSL validity, SPF/DMARC, security headers, IP reputation).
 - **[blacklists](https://github.com/fabriziosalmi/blacklists)** — daily-refreshed domain blacklists.
+- **[CyberAPI](https://www.cyberapi.io)** — production threat-intelligence API: malicious-domain, disposable-email, bot, phishing, DNS, and SSL checks in under 150 ms. Public [SDK](https://github.com/cyberapi-io/sdk) (Python/JS/PHP). The commercialised form of the boundary-defense thesis — same instinct, paid SLAs.
 
 ### Quality and accountability for AI-generated output (Reliability, Accountability)
 
