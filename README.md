@@ -2,6 +2,8 @@
 
 *A practical guide to AI ethics and responsibility, built from a real-world incident — and from the body of work that came after.*
 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB.svg?logo=researchgate)](https://www.researchgate.net/profile/Fabrizio-Salmi/publications)
+
 I started this project on 4 October 2023 because I got porn content while using ChatGPT 4 with the TMDB plugin. I reported the issue and started discussing with the chatbot how to really fix such problems.
 
 I ended up evaluating dozens of LLMs, both local and API-powered, for automated ethical assessments — see [ethical-ai](https://github.com/fabriziosalmi/ethical-ai). The same line of thinking eventually produced a portfolio of small tools that enforce, at the level of code, what this document tries to articulate in prose. See *What came next* below.
@@ -103,7 +105,7 @@ The decentralization section of this guide aged best of the original 2023 draft,
 - **[shortlist](https://github.com/fabriziosalmi/shortlist)** — decentralized broadcasting swarm using Git itself as the coordination backend. Atomic commits replace Zookeeper; every node holds the full coordination state.
 - **[synapse-ng](https://github.com/fabriziosalmi/synapse-ng)** — self-governing, self-funding, self-evolving decentralized network. Each node is an autonomous agent.
 - **[tad](https://github.com/fabriziosalmi/tad)** — peer-to-peer chat for offline-first communities.
-- **[aimp](https://github.com/fabriziosalmi/aimp)** — experimental serverless networking protocol for resilient state synchronization between autonomous agents in fragmented, low-bandwidth networks. Built on Merkle-CRDTs.
+- **[aimp](https://github.com/fabriziosalmi/aimp)** — experimental serverless networking protocol for state synchronization between autonomous agents in fragmented, low-bandwidth networks. Merkle-CRDT substrate with Ed25519 identity and Noise Protocol XX; **TLA+ verified, runs on edge hardware**. The implementation of the four preprints in *Selected publications*.
 
 ### Compliance (Legal)
 
@@ -310,13 +312,14 @@ I do not claim the ten principles are exhaustive, the trade-offs are complete, o
 
 ### Selected publications by the author
 
-The architectural arguments in *Equal Decentralization* and the trust assumptions in *What came next* rest on a separate body of work on Byzantine-tolerant aggregation and deterministic verifiability for decentralized AI systems.
+These four preprints describe the design, epistemic model, correlation handling, and semantic topology of the AIMP protocol — implemented in [aimp](https://github.com/fabriziosalmi/aimp), with TLA+ formal verification of CRDT convergence, quorum safety, and belief convergence.
 
-- Salmi, F., *Byzantine-Tolerant Belief Aggregation over Merkle-DAGs: A Deterministic Epistemic Layer for Decentralized AI* (2026, preprint).
-- Salmi, F., *Correlation-Aware Belief Aggregation: Deterministic Spatial-Temporal Discounting for Byzantine-Tolerant Sensor Fusion over Merkle-DAGs* (2026, preprint).
-- Salmi, F., *Deterministic Semantic Topologies: BFT-Safe Embedding Quantization for Autonomous Knowledge Graph Assembly over Merkle-DAGs* (preprint).
+- Salmi, F., *AIMP: AI Mesh Protocol — Design and Evaluation of a Serverless Merkle-CRDT Protocol for Edge Agent Synchronization* (2026, preprint) — [ResearchGate 403127328](https://www.researchgate.net/publication/403127328).
+- Salmi, F., *Byzantine-Tolerant Belief Aggregation over Merkle-DAGs: A Deterministic Epistemic Layer for Decentralized AI* (2026, preprint) — [ResearchGate 403247988](https://www.researchgate.net/publication/403247988).
+- Salmi, F., *Correlation-Aware Belief Aggregation: Deterministic Spatial-Temporal Discounting for Byzantine-Tolerant Sensor Fusion over Merkle-DAGs* (2026, preprint) — [ResearchGate 403250288](https://www.researchgate.net/publication/403250288).
+- Salmi, F., *Deterministic Semantic Topologies: BFT-Safe Embedding Quantization for Autonomous Knowledge Graph Assembly over Merkle-DAGs* (2026, preprint) — [ResearchGate 403251653](https://www.researchgate.net/publication/403251653).
 
-Listed and accessible via [ResearchGate](https://www.researchgate.net/profile/Fabrizio-Salmi/publications).
+Author profiles: [ResearchGate](https://www.researchgate.net/profile/Fabrizio-Salmi/publications) · [ResearchHub](https://www.researchhub.com/author/8588952?tab=publications).
 
 ---
 
