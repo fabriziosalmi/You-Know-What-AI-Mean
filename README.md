@@ -166,7 +166,7 @@ Concretely, decentralization across four axes:
 - **Benefits and economic gains** — value distributed across sectors and demographics, not captured by a small number of firms with model-access privileges.
 - **Governance** — decisions made through bodies that include technologists, policymakers, civil society, and affected end users — not just incumbent vendors.
 
-The principle is not just rhetorical. The same arc that produced this guide also produced experiments in actually decentralizing the substrate: [shortlist](https://github.com/fabriziosalmi/shortlist) (Git as a coordination backend, no central server), [synapse-ng](https://github.com/fabriziosalmi/synapse-ng) (self-governing peer network), [tad](https://github.com/fabriziosalmi/tad) (P2P chat for offline-first communities), [aimp](https://github.com/fabriziosalmi/aimp) (Merkle-CRDT autonomous-agent protocol). They are partial answers, but they are answers in code.
+The principle is not just rhetorical. The same arc that produced this guide also produced experiments in actually decentralizing the substrate: [shortlist](https://github.com/fabriziosalmi/shortlist) (Git as a coordination backend, no central server), [synapse-ng](https://github.com/fabriziosalmi/synapse-ng) (self-governing peer network), [tad](https://github.com/fabriziosalmi/tad) (P2P chat for offline-first communities), [aimp](https://github.com/fabriziosalmi/aimp) (Merkle-CRDT autonomous-agent protocol). They are partial answers, but they are answers in code. For the formal substrate underneath these architectural choices — Byzantine-tolerant belief aggregation, deterministic semantic topologies, BFT-safe sensor fusion over Merkle-DAGs — see *Selected publications by the author* below.
 
 ## Roles
 
@@ -307,6 +307,16 @@ I do not claim the ten principles are exhaustive, the trade-offs are complete, o
 
 - Kleinberg, Mullainathan, Raghavan, *Inherent Trade-Offs in the Fair Determination of Risk Scores* (2016) — [arxiv.org/abs/1609.05807](https://arxiv.org/abs/1609.05807)
 - Chouldechova, *Fair prediction with disparate impact: A study of bias in recidivism prediction instruments* (2017) — [arxiv.org/abs/1610.07524](https://arxiv.org/abs/1610.07524)
+
+### Selected publications by the author
+
+The architectural arguments in *Equal Decentralization* and the trust assumptions in *What came next* rest on a separate body of work on Byzantine-tolerant aggregation and deterministic verifiability for decentralized AI systems.
+
+- Salmi, F., *Byzantine-Tolerant Belief Aggregation over Merkle-DAGs: A Deterministic Epistemic Layer for Decentralized AI* (2026, preprint).
+- Salmi, F., *Correlation-Aware Belief Aggregation: Deterministic Spatial-Temporal Discounting for Byzantine-Tolerant Sensor Fusion over Merkle-DAGs* (2026, preprint).
+- Salmi, F., *Deterministic Semantic Topologies: BFT-Safe Embedding Quantization for Autonomous Knowledge Graph Assembly over Merkle-DAGs* (preprint).
+
+Listed and accessible via [ResearchGate](https://www.researchgate.net/profile/Fabrizio-Salmi/publications).
 
 ---
 
