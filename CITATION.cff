@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "You Know What AI Mean"
+message: "If you cite or build on this guide, please use this metadata."
+type: software
+authors:
+  - given-names: Fabrizio
+    family-names: Salmi
+    email: fabrizio.salmi@gmail.com
+repository-code: "https://github.com/fabriziosalmi/You-Know-What-AI-Mean"
+url: "https://youknowwhataimean.com"
+abstract: >-
+  A practical guide to AI ethics and responsibility, built from a real-world
+  incident — and from the body of work that came after.
+keywords:
+  - ai-ethics
+  - responsible-ai
+  - ai-safety
+  - ai-governance
+  - eu-ai-act
+  - nis2
+  - oecd-ai-principles
+  - nist-ai-rmf
+  - ai-incident-database
+license: CC0-1.0
+date-released: 2023-10-04

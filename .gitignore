@@ -14,3 +14,7 @@ Thumbs.db
 # Common temporary files
 *.tmp
 *.log
+
+# Generated site output (built by .github/workflows/pages.yml)
+index.html
+_site/
