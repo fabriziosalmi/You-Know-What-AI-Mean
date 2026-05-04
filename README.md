@@ -1,5 +1,6 @@
 # You Know What AI Mean
-_A practical guide to AI ethics and responsibility, built from a real-world incident — and from the body of work that came after._
+
+*A practical guide to AI ethics and responsibility, built from a real-world incident — and from the body of work that came after.*
 
 I started this project on 4 October 2023 because I got porn content while using ChatGPT 4 with the TMDB plugin. I reported the issue and started discussing with the chatbot how to really fix such problems.
 
@@ -289,6 +290,7 @@ I do not claim the ten principles are exhaustive, the trade-offs are complete, o
 ## References
 
 ### Frameworks and guidelines
+
 - OECD AI Principles (2019, updated 2024) — [oecd.ai/en/ai-principles](https://oecd.ai/en/ai-principles)
 - EU AI Act, Regulation (EU) 2024/1689 — Official Journal of the EU, 12 July 2024 — [eur-lex.europa.eu](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
 - NIST AI Risk Management Framework 1.0 (2023) — [nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
@@ -296,14 +298,16 @@ I do not claim the ten principles are exhaustive, the trade-offs are complete, o
 - Asilomar AI Principles (2017) — [futureoflife.org/open-letter/ai-principles](https://futureoflife.org/open-letter/ai-principles/)
 
 ### Reporting and threat-modeling systems
+
 - AI Incident Database — [incidentdatabase.ai](https://incidentdatabase.ai)
 - OECD AI Incidents Monitor — [oecd.ai](https://oecd.ai)
 - MITRE ATLAS — [atlas.mitre.org](https://atlas.mitre.org)
 
 ### Trade-offs literature
+
 - Kleinberg, Mullainathan, Raghavan, *Inherent Trade-Offs in the Fair Determination of Risk Scores* (2016) — [arxiv.org/abs/1609.05807](https://arxiv.org/abs/1609.05807)
 - Chouldechova, *Fair prediction with disparate impact: A study of bias in recidivism prediction instruments* (2017) — [arxiv.org/abs/1610.07524](https://arxiv.org/abs/1610.07524)
 
 ---
 
-_Originally drafted October 2023 in dialogue with ChatGPT-4. Pruned, restructured, and grounded in subsequent work in 2026._
+*Originally drafted October 2023 in dialogue with ChatGPT-4. Pruned, restructured, and grounded in subsequent work in 2026.*

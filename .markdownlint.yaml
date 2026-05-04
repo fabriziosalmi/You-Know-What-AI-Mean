@@ -3,3 +3,6 @@ MD013: false
 MD033: false
 MD024: { siblings_only: true }
 MD041: true
+MD049: { style: asterisk }
+MD050: { style: asterisk }
+MD060: false
