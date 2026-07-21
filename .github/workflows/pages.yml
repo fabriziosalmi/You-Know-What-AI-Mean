@@ -34,7 +34,9 @@ jobs:
         run: |
           mkdir -p _site
           pandoc README.md -s -o _site/index.html \
-            --metadata pagetitle="You Know What AI Mean"
+            --metadata pagetitle="You Know What AI Mean" \
+            --include-in-header=docs-assets/pandoc-head.html \
+            --include-after-body=docs-assets/pandoc-footer.html
           [ -f favicon.ico ] && cp favicon.ico _site/ || true
           [ -f CNAME ] && cp CNAME _site/ || true
 
