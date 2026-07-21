@@ -1,0 +1,9 @@
+<!--
+  Injected into <head> by pandoc via --include-in-header.
+
+  pandoc -s emits a self-contained page whose CSS lives in an inline <style>,
+  hence style-src 'unsafe-inline'. The only external resource is the shields.io
+  badge images referenced from the README, which img-src allows explicitly and
+  the privacy notice discloses.
+-->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://img.shields.io; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'self'">
