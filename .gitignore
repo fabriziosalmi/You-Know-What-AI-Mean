@@ -18,3 +18,5 @@ Thumbs.db
 # Generated site output (built by .github/workflows/pages.yml)
 index.html
 _site/
+# Workspace settings
+.claude/
